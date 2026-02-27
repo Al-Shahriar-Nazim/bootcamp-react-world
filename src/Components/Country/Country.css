@@ -1,0 +1,10 @@
+.country-style{
+    border: 1px solid crimson;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+}
+.btn{
+    padding: 10px;
+    border-radius: 10px;
+}

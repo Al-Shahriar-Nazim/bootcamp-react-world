@@ -9,8 +9,8 @@ const Countries = ({countriesPromised}) => {
     // console.log(countries)
     return (
         <div>
-            <h3 className='style'>Total Countries :</h3>
-            <div>
+            <h3 className='style'>Total Countries :{countries.length}</h3>
+            <div className='card-body'>
                 {
                     countries.map(country=><Country country={country}></Country>)
                 }
