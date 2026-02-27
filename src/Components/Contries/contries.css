@@ -12,3 +12,8 @@
     background-color: aqua;
     color: black;
 }
+.flag-style img{
+    width: 120px;
+    border: 1px solid black;
+    margin: 20px;
+}
